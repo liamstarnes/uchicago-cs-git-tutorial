@@ -1,2 +1,3 @@
 Hello, world!
 frog
+Git is pretty cool
